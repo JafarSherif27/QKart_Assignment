@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-23T23:14:25 IST" name="Gradle suite" finished-at="2025-07-23T23:14:44 IST" duration-ms="19146">
+  <suite started-at="2025-07-24T11:13:16 IST" name="Gradle suite" finished-at="2025-07-24T11:13:41 IST" duration-ms="25020">
     <groups>
     </groups>
-    <test started-at="2025-07-23T23:14:25 IST" name="Gradle test" finished-at="2025-07-23T23:14:44 IST" duration-ms="19146">
-      <class name="kwibal.TestCase">
-        <test-method is-config="true" signature="setup()[pri:0, instance:kwibal.TestCase@5454d35e]" started-at="2025-07-23T23:14:25 IST" name="setup" finished-at="2025-07-23T23:14:40 IST" duration-ms="14407" status="PASS">
+    <test started-at="2025-07-24T11:13:16 IST" name="Gradle test" finished-at="2025-07-24T11:13:41 IST" duration-ms="25020">
+      <class name="qkart.TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qkart.TestCase@341814d3]" started-at="2025-07-24T11:13:16 IST" name="setup" finished-at="2025-07-24T11:13:24 IST" duration-ms="7655" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="homePage()[pri:0, instance:kwibal.TestCase@5454d35e]" started-at="2025-07-23T23:14:40 IST" name="homePage" finished-at="2025-07-23T23:14:44 IST" duration-ms="4630" status="PASS">
+        <test-method signature="TestCase01()[pri:0, instance:qkart.TestCase@341814d3]" started-at="2025-07-24T11:13:24 IST" name="TestCase01" description="Verify that a new user can add product to cart and Checkout" finished-at="2025-07-24T11:13:41 IST" duration-ms="17295" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- homePage -->
-      </class> <!-- kwibal.TestCase -->
+        </test-method> <!-- TestCase01 -->
+      </class> <!-- qkart.TestCase -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>
