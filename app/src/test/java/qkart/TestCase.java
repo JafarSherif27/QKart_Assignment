@@ -102,7 +102,7 @@ public class TestCase {
     }
 
     // Tear-down
-    @AfterClass(enabled = false)
+    @AfterClass(enabled = true)
     public void tearDown() {
         driver.quit();
     }
