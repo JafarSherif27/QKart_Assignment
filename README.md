@@ -20,5 +20,5 @@ Link - https://crio-qkart-frontend-qa.vercel.app/
 
 
 ## Cloning the repository
-- git clone https://github.com/JafarSherif27/QKart_Assignment.git
-- cd qkart-automation
+ git clone https://github.com/JafarSherif27/QKart_Assignment.git
+
